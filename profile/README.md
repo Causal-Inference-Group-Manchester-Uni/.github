@@ -1,12 +1,12 @@
 Github page for the Causal inference group from the [Centre of Biostatistics](http://research.bmh.manchester.ac.uk/biostatistics/), Manchester University.
 
-Reseach interests include
+**Research interests include**
 * Statistical Genomics
 * Causal inference
 * Multi-omics data
 * Mendelian Randomization
 
-<br/><br/>
+<br/>
 
 **Members**
 * [Dr Hui Guo](https://www.research.manchester.ac.uk/portal/hui.guo.html)
@@ -16,7 +16,7 @@ Reseach interests include
 * Xinzhu Yu
 
 
-<br/><br/>
+<br/>
 
 
 
