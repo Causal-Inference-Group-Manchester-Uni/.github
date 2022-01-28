@@ -5,6 +5,7 @@ Github page for the Causal inference group from the Centre for Biostatistics, Th
 * Causal inference
 * Multi-omics data
 * Mendelian Randomization
+* Causal networks
 
 <br/>
 
