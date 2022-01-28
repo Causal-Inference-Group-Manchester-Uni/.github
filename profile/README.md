@@ -1,4 +1,4 @@
-Github page for the Causal inference group from the [Centre of Biostatistics](http://research.bmh.manchester.ac.uk/biostatistics/), Manchester University.
+Github page for the Causal inference group from the Centre for Biostatistics, The University of Manchester.
 
 **Research interests include**
 * Statistical Genomics
