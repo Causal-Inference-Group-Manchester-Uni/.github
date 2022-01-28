@@ -22,7 +22,8 @@ Github page for the Causal inference group from the Centre for Biostatistics, Th
 
 
 **Recent publications and preprints**
-* **Bayesian Mendelian randomization with study heterogeneity and data partitioning for large studies.** Zou, L., Guo, H. & Berzuini, C., 2021. [Access Here](http://arxiv.org/abs/2112.08147)
+* **Bayesian Mendelian randomization with study heterogeneity and data partitioning for large studies.** Zou, L., Guo, H. & Berzuini, C., 2021. arXiv:2112.08147
+ [Access Here](http://arxiv.org/abs/2112.08147)
 * **Overlapping-sample Mendelian randomisation with multiple exposures: a Bayesian approach.** Zou, L., Guo, H. & Berzuini, C., 2020. _BMC Medical Research Methodology_ 20(1): pp.295 295. [Access Here](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-020-01170-0)
 * **Higher BMI is linked to an increased risk of heart attacks in European adults: a Mendelian randomisation study.** Adams, B., Jacocks, L. & Guo, H., 2020. _BMC cardiovascular disorders_ 20:258. [Access Here](https://bmccardiovascdisord.biomedcentral.com/articles/10.1186/s12872-020-01542-w)
 * **Integrative analysis of Mendelian randomization and Bayesian colocalization highlights four genes with putative BMI-mediated causal pathways to diabetes.** Liu, Q., Pan, J., Berzuini, C., Rutter, M. K. & Guo, H., 2020. _Scientific Reports_, 10: 7476. [Access Here](https://www.nature.com/articles/s41598-020-64493-4)
