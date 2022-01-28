@@ -13,7 +13,7 @@ Github page for the Causal inference group from the Centre for Biostatistics, Th
 * [Prof Carlo Berzuini](https://www.research.manchester.ac.uk/portal/carlo.berzuini.html)
 * [Jack Kelly](https://www.research.manchester.ac.uk/portal/jack.kelly.html)
 * Linyi Zou
-* Xinzhu Yu
+* [Xinzhu Yu](https://www.research.manchester.ac.uk/portal/xinzhu.yu.html)
 
 
 <br/>
