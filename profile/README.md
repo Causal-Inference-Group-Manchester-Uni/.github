@@ -22,6 +22,7 @@ Github page for the Causal inference group from the Centre for Biostatistics, Th
 
 
 **Recent publications and preprints**
+* **Discovery methods for systematic analysis of causal molecular networks in modern omics datasets.** Kelly, J., Berzuini, C., Keavney, B., Tomaszewski, M. and Guo, H., 2022. 	arXiv:2201.12229 [Access Here](https://arxiv.org/abs/2201.12229)
 * **Bayesian Mendelian randomization with study heterogeneity and data partitioning for large studies.** Zou, L., Guo, H. & Berzuini, C., 2021. arXiv:2112.08147
  [Access Here](http://arxiv.org/abs/2112.08147)
 * **Overlapping-sample Mendelian randomisation with multiple exposures: a Bayesian approach.** Zou, L., Guo, H. & Berzuini, C., 2020. _BMC Medical Research Methodology_ 20(1): pp.295 295. [Access Here](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-020-01170-0)
